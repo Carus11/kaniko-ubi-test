@@ -1,0 +1,15 @@
+Application:
+  Name: Stuff
+MasterImage:
+  URL: someurl.example.com
+BaseImage:
+  URL: someurl.example.com
+Destination:
+  URL: somewhere
+  ImageName: stuff
+  Tags:
+  - latest
+ResourceCategories: []
+Languages: []
+Databases: []
+PythonResources: []
